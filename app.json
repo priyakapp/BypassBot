@@ -24,7 +24,7 @@
       "value": "1251111009",
       "required": true
     },
-    "CHANNELS": {
+    "AUTH_CHATS": {
       "description": "Channel IDs (space-separated)",
       "value": "",
       "required": false
